@@ -1,0 +1,9 @@
+fuzzywuzzy
+numpy
+pandas
+plotly
+Sastrawi
+scikit_learn
+streamlit
+tensorflow
+tensorflow_intel
