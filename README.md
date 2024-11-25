@@ -8,7 +8,7 @@ To install the required dependencies, run the following command:
 pip install -r requirements.txt
 ```
 
-## Running the Application
+## Running Demo Application
 
 To run the application using Streamlit, use the following command:
 
