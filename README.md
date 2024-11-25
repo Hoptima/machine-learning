@@ -16,4 +16,4 @@ To run the application using Streamlit, use the following command:
 streamlit run aplikasi.py
 ```
 
-Make sure you are in the workspace folder where `app.py` is located before running the command.
+Make sure you are in the workspace folder where `streamlit run aplikasi.py` is located before running the command.
